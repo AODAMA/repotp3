@@ -197,3 +197,7 @@ img {
 a {
     color: inherit;
 }
+.responsive {
+  width: 100%;
+  height: auto;
+}
